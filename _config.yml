@@ -31,3 +31,5 @@ plugins:
 # Custom variables
 owner : "Cristian Rubert"
 year : "2020"
+
+theme: jekyll-theme-hacker
