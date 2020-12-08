@@ -6,7 +6,7 @@ author:
   url: "https://cristianrubert.github.io/Ciberseguridad/"
  
 
-baseurl: /
+baseurl: https://cristianrubert.github.io/Ciberseguridad/
 
 source: .
 destination: ./_site
